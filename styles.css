@@ -7,7 +7,7 @@ body {
 
 /* Headings */
 h1, h2, h3, h4 {
-  color: #0d6efd; /* Bootstrap Primary */
+  color: #021a3f; 
 }
 
 /* Navbar */
@@ -35,7 +35,7 @@ form input, form textarea {
 }
 
 form input:focus, form textarea:focus {
-  border-color: #0d6efd;
+  border-color: #021a3f;
   box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.2);
 }
 
@@ -48,18 +48,18 @@ img {
 
 /* Footer */
 footer {
-  background-color: #212529;
-  color: #fff;
+  background-color: #021a3f;
+  color: #7b7272;
 }
 
 /* Hero Image */
 .rounded-circle {
-  border: 4px solid #0d6efd;
+  border: 4px solid #021a3f;
   padding: 5px;
 }
 
 /* Section Padding */
-section, .container {
+ .container {
   padding-top: 40px;
   padding-bottom: 40px;
 }
