@@ -44,7 +44,7 @@ form input:focus, form textarea:focus {
 }
 
 /* Project Images */
-img {
+img, .img-fluid rounded shadow mb-3 {
   max-width: 30%;
   height: auto;
   border-radius: 10px;
